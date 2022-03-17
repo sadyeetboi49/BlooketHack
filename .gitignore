@@ -1,7 +1,7 @@
 __pycache__/
 BlooketHack.spec
 BUILD/*
-*.toc
+*.toc javascitp
 *.zip
 *.manifest
 *.pkg
